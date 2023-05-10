@@ -6,3 +6,4 @@ test/log
 rootfs/tpls/etc/nginx/certificate/nginx.key
 rootfs/tpls/etc/nginx/certificate/nginx-certificate.crt
 rootfs/tpls/etc/nginx/conf.d/librenms.conf
+docker-librenms.tar.gz
